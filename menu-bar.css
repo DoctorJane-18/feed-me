@@ -1,0 +1,11 @@
+#menu-bar {
+  text-align: right;
+  background: #2b547e;
+}
+#menu-bar li {
+  display: inline-block;
+}
+#menu-bar ul {
+  margin: 4px;
+  padding: 0;
+}
